@@ -3,4 +3,4 @@ This is still in very early stages of development, but it is an entirely functio
 
 Screenshot below shows the application prior to clicking "run"; more details screenshots may follow with the use of non-sensitive mock data.
 ![image](https://github.com/Assad-AC/Fuzzy-Matching-and-GIS/assets/126238295/79f2a146-356f-43ae-97c5-b690fa2fc847)# Fuzzy-Matching-and-GIS
-![Before clicking Run](https://github.com/Assad-AC/Fuzzy-Matching-and-GIS/assets/126238295/fbb7930e-bc15-4997-aa99-eeee2d7f0bce)
+
