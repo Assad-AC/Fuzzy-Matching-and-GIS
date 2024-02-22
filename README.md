@@ -10,3 +10,4 @@ Pending development tasks:
 - Error handling
 - Refactoring
 - Modularisation
+- UI options to switch on or off certain features
