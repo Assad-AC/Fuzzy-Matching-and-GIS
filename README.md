@@ -3,3 +3,10 @@ This is still in very early stages of development, but it is an entirely functio
 
 The screenshot below shows the application prior to clicking "run"; more detailed screenshots may follow with the use of non-sensitive mock data.
 ![image](https://github.com/Assad-AC/Fuzzy-Matching-and-GIS/assets/126238295/79f2a146-356f-43ae-97c5-b690fa2fc847)
+
+
+Pending development tasks:
+- Speed optimisation
+- Error handling
+- Refactoring
+- Modularisation
